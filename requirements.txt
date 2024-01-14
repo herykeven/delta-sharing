@@ -1,0 +1,11 @@
+
+# pyspark
+pyspark==3.5.0
+
+# pandas
+pandas==2.1.4
+
+# delta-sharing
+delta==0.4.2
+delta-sharing==1.0.3
+delta-spark==3.0.0
